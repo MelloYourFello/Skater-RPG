@@ -1,0 +1,47 @@
+{
+    "opening": [ 
+        {
+            "talker": "Yes Man",
+            "text": "おまいわむおまいわむ",
+            "portrait_sprite": "spr_test_portrait_opening",
+            "replies": []
+        },
+        {
+            "talker": "Yes Man",
+            "text": "しんでいゆ",
+            "portrait_sprite": "spr_test_portrait_scream",
+            "replies": []
+        },
+        {
+            "talker": "Yes Man",
+            "text": "なに？！？",
+            "portrait_sprite": "spr_test_portrait_uncanny",
+            "replies": []
+        }],
+    
+    "white_van": [ 
+		{
+			"talker": "Local Weirdo",
+			"text": "This is a test for the japanese version",
+			"portrait_sprite": "spr_weirdo_portrait_opening",
+			"replies": []
+		},
+		{
+			"talker": "Local Weirdo",
+			"text": "Right now im working on localization swapping!",
+			"portrait_sprite": "spr_weirdo_portrait_smile",
+			"replies": []
+		},
+		{
+			"talker": "Local Weirdo",
+			"text": "Using a .json file, its easy to do this!",
+			"portrait_sprite": "spr_weirdo_portrait_fullbody",
+			"replies": []
+		},
+		{
+			"talker": "You",
+			"text": "You see his life flicker before him as he's knocked unconcious.",
+			"portrait_sprite": "spr_weirdo_portrait_baked",
+			"replies": []
+		}]
+}

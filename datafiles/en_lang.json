@@ -1,0 +1,60 @@
+{
+    "start_cutscene": "opening_cutscene",
+    "opening": [ 
+        {
+            "text": "Thinking..?"
+        },
+        {
+            "text": "Conceptualizing..?"
+        },
+        {
+            "text": "Are you just waiting for something to happen like a [rainbow][wave] DUM DUM? [/wave][/rainbow]"
+        },
+		{
+            "text": "Okay that's pretty fair.."
+        },
+		{
+            "text": "Wait a SECOND..."
+        },
+		{
+            "text": "Thought now recognized"
+        },
+		{
+            "text": "Thought now registered"
+        },
+		{
+            "text": "Thought now implemented"
+        },
+		{
+            "text": "Thought now calibrated"
+        },
+		{
+            "text": "Thought now processed"
+        }],
+    
+    "white_van": [ 
+		{
+			"talker": "Local Weirdo",
+			"text": "Hey kid.. you want some candy?",
+			"portrait_sprite": "spr_weirdo_portrait_opening",
+			"replies": []
+		},
+		{
+			"talker": "Local Weirdo",
+			"text": "No? More for me then.",
+			"portrait_sprite": "spr_weirdo_portrait_smile",
+			"replies": []
+		},
+		{
+			"talker": "Local Weirdo",
+			"text": "Oh wait. that's the wrong batch.",
+			"portrait_sprite": "spr_weirdo_portrait_fullbody",
+			"replies": []
+		},
+		{
+			"talker": "You",
+			"text": "You see his life flicker before him as he's knocked unconcious.",
+			"portrait_sprite": "spr_weirdo_portrait_baked",
+			"replies": []
+		}]
+}

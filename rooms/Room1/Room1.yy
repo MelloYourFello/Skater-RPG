@@ -23,8 +23,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Skater RPG",
-    "path":"Skater RPG.yyp",
+    "name":"rooms",
+    "path":"folders/rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

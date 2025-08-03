@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_instantiate_dialogue",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_instantiate_dialogue",
+  "parent":{
+    "name":"dialogue",
+    "path":"folders/scripts/dialogue.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
