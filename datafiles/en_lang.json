@@ -35,7 +35,7 @@
     "white_van": [ 
 		{
 			"talker": "Local Weirdo",
-			"text": "Hey kid.. you want some candy?",
+			"text": "Hey kid.. you want some [pulse]candy[/pulse]?",
 			"portrait_sprite": "spr_weirdo_portrait_opening",
 			"replies": []
 		},
@@ -47,14 +47,14 @@
 		},
 		{
 			"talker": "Local Weirdo",
-			"text": "Oh wait. that's the wrong batch.",
+			"text": "Oh wait. [delay,450] that's the wrong batch.",
 			"portrait_sprite": "spr_weirdo_portrait_fullbody",
 			"replies": []
 		},
 		{
 			"talker": "You",
 			"text": "You see his life flicker before him as he's knocked unconcious.",
-			"portrait_sprite": "spr_weirdo_portrait_baked",
+			"portrait_sprite": "spr_weirdo_portrait_fullbody",
 			"replies": []
 		}]
 }

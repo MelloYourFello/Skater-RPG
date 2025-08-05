@@ -1,10 +1,12 @@
 confirm_key = vk_enter;
+skip_key = ord("X");
 
 // Dialogue Variable \\
 dialogue_index = -1;
+character_portrait_asset = spr_error_texture;
 
 typist = scribble_typist();
-typist.in(1, 0);
+typist.in(0.85, 5);
 text = "";
 
 // Methods \\
@@ -24,6 +26,7 @@ function advanceDialogue(){
 		instance_destroy();
 	} else {
 		var _currentposition = ds_list_find_value(dialogue_id,dialogue_index);
+		
 		character_portrait = ds_map_find_value(_currentposition,"portrait_sprite");
 		text = ds_map_find_value(_currentposition,"text");
 	}
